@@ -1,4 +1,4 @@
-# Hi, I’m Ceren from 🇹🇷!
+# Hi, I’m 𝓒𝓮𝓻𝓮𝓷 from 🇹🇷! 🧚🏻‍♀️🌈🌸💫🎀✨
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXF2aWNlNDA1MXp6eTEyb2dvZHJzbmg4YWhtajllZjJnYjdyZGY4aiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/6EDGSznQA5kVCa0DfD/giphy.gif">
