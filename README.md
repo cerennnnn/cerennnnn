@@ -15,8 +15,9 @@ Always striving for **1% daily improvement** and pushing the boundaries of the A
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cerennnnn&theme=dark" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerennnnn&layout=donut&theme=dark" width="48%" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
 <br clear="both" />
