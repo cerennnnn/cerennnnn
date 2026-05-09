@@ -11,13 +11,13 @@ With a strong foundation in **Swift, SwiftUI, and MVVM architecture**, I am dedi
 Always striving for **1% daily improvement** and pushing the boundaries of the Apple ecosystem. 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerennnnn&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerennnnn&theme=dark&hide_border=true" />
 </p>
 
 <br clear="both" />
