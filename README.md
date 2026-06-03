@@ -15,11 +15,6 @@ Always striving for **1% daily improvement** and pushing the boundaries of the A
   <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerennnnn&theme=dark&hide_border=true" />
-</p>
-
 <br clear="both" />
 <br />
 
